@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èä³Êıÿÿÿÿ8ú—ËÉ×1
+[
+java:S1854"">Remove this useless assignment to local variable "regionRest".(ø™¦Û8‚˜ËÉ×1
+G	java:S106"+Replace this use of System.out by a logger.(ˆºª8ƒ˜ËÉ×1
+L	java:S106"+Replace this use of System.out by a logger.(±º€€ûÿÿÿÿ8ƒ˜ËÉ×1
+G	java:S106"+Replace this use of System.out by a logger.(ñ¤º˜8ƒ˜ËÉ×1
+L	java:S106"+Replace this use of System.out by a logger.(û±Îÿÿÿÿÿ8„˜ËÉ×1
+G	java:S106"+Replace this use of System.out by a logger.(ÌÒÊ„8„˜ËÉ×1
+L	java:S106"+Replace this use of System.out by a logger.(ˆªÑœøÿÿÿÿ8„˜ËÉ×1
+G	java:S106"+Replace this use of System.out by a logger.(ÁÿŞ˜8„˜ËÉ×1
+G	java:S106"+Replace this use of System.out by a logger.(˜——¼8„˜ËÉ×1
+T
+java:S3972"7Move this "if" to a new line or add the missing "else".(„‹ò8„˜ËÉ×1
+F	java:S106"+Replace this use of System.out by a logger.(÷Ô8„˜ËÉ×1
+G	java:S106"+Replace this use of System.out by a logger.(ëŸ¶ç8„˜ËÉ×1
+G	java:S106!"+Replace this use of System.out by a logger.(Œ¿Ø›8„˜ËÉ×1
+L
+java:S1481""/Remove this unused "regionRest" local variable.(ø™¦Û8„˜ËÉ×1
+L	java:S106#"+Replace this use of System.out by a logger.(ÜäÛÉúÿÿÿÿ8…˜ËÉ×1
