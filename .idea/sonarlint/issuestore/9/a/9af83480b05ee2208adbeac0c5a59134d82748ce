@@ -1,0 +1,32 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÌŸ–­øÿÿÿÿ8Òÿœò×1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ÌŸ–­øÿÿÿÿ8Òÿœò×1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(­†´¿8Òÿœò×1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìä¸»şÿÿÿÿ8Óÿœò×1
+]
+java:S1854	";Remove this useless assignment to local variable "region2".(Öíò–üÿÿÿÿ8Øÿœò×1
+X
+java:S1854";Remove this useless assignment to local variable "region1".(İÄº£8Øÿœò×1
+I
+java:S1481",Remove this unused "region1" local variable.(İÄº£8Úÿœò×1
+N
+java:S1481	",Remove this unused "region2" local variable.(Öíò–üÿÿÿÿ8Úÿœò×1
+G	java:S106
+"+Replace this use of System.out by a logger.(ôè¬€8Úÿœò×1
+L	java:S106"+Replace this use of System.out by a logger.(ç§àåúÿÿÿÿ8Úÿœò×1
+9
+java:S1116"Remove this empty statement.(­†´¿8Úÿœò×1
+L	java:S106"+Replace this use of System.out by a logger.(òä³Îüÿÿÿÿ8Úÿœò×1
+\
+java:S1854"?Remove this useless assignment to local variable "warengruppe".(§‘ã„8Ûÿœò×1
+L	java:S106"+Replace this use of System.out by a logger.(œÑÜŒúÿÿÿÿ8Ûÿœò×1
+L	java:S106"+Replace this use of System.out by a logger.(À¬™©ûÿÿÿÿ8Ûÿœò×1
+M
+java:S1481"0Remove this unused "warengruppe" local variable.(§‘ã„8Ûÿœò×1
+>
+java:S1116"Remove this empty statement.(’İßÄşÿÿÿÿ8Ûÿœò×1
+G	java:S106"+Replace this use of System.out by a logger.(…ÉÛŸ8Ûÿœò×1
+L	java:S106"+Replace this use of System.out by a logger.(œïÆóûÿÿÿÿ8ûæò×1
