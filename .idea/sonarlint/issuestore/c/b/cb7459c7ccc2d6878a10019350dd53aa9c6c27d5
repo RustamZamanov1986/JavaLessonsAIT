@@ -1,29 +1,0 @@
-
-K
-java:S1121".Extract the assignment out of this expression.(“Ïñİ8ş—êÂ×1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èä³Êıÿÿÿÿ8ÿ—êÂ×1
-£
-java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ÔãÈf8ÿ—êÂ×1
-j
-java:S1854"MRemove this useless assignment to local variable "kaufSummeElektronikBayern".(“Ïñİ8ˆ˜êÂ×1
-o
-java:S1854"MRemove this useless assignment to local variable "kaufSummeElektronikBayern".(šïÛâşÿÿÿÿ8ˆ˜êÂ×1
-h
-java:S1854"KRemove this useless assignment to local variable "kaufSummeElektronikRest".(¼ü›‘8ˆ˜êÂ×1
-L	java:S106"+Replace this use of System.out by a logger.(©˜úùüÿÿÿÿ8Š˜êÂ×1
-G	java:S106"+Replace this use of System.out by a logger.(ùŠÕ°8Š˜êÂ×1
->
-java:S1116"Remove this empty statement.(š„„´ıÿÿÿÿ8Š˜êÂ×1
-G	java:S106"+Replace this use of System.out by a logger.(´èˆµ8Š˜êÂ×1
-`
-java:S1481">Remove this unused "kaufSummeElektronikBayern" local variable.(šïÛâşÿÿÿÿ8Š˜êÂ×1
-G	java:S106"+Replace this use of System.out by a logger.(“Ïñİ8Š˜êÂ×1
-L	java:S106"+Replace this use of System.out by a logger.(í·¡Æıÿÿÿÿ8‹˜êÂ×1
-G	java:S106"+Replace this use of System.out by a logger.(®ó·Œ8‹˜êÂ×1
-G	java:S106"+Replace this use of System.out by a logger.(¸ûŞ´8‹˜êÂ×1
-Y
-java:S1481"<Remove this unused "kaufSummeElektronikRest" local variable.(¼ü›‘8‹˜êÂ×1
-G	java:S106"+Replace this use of System.out by a logger.(Àïé°8‹˜êÂ×1
-G	java:S106!"+Replace this use of System.out by a logger.(çÒÌ®8‹˜êÂ×1
-G	java:S106&"+Replace this use of System.out by a logger.(Í¤áã8‹˜êÂ×1
-L	java:S106)"+Replace this use of System.out by a logger.(ÇÆ¬ıÿÿÿÿ8‹˜êÂ×1

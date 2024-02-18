@@ -1,23 +1,0 @@
-
-H
-java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èä³Êıÿÿÿÿ
-M
-java:S2589"7Remove this expression which always evaluates to "true"(çÎ³Â
-P
-java:S1854":Remove this useless assignment to local variable "region".(Ğò¡Ş
-E	java:S106"+Replace this use of System.out by a logger.(©˜úùüÿÿÿÿ
-A
-java:S1481"+Remove this unused "region" local variable.(Ğò¡Ş
-E	java:S106"+Replace this use of System.out by a logger.(ïéèôşÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(ùŠÕ°
-=
-java:S1125"'Remove the unnecessary boolean literal.(çÎ³Â
-2
-java:S1116"Remove this empty statement.(çÎ³Â
-@	java:S106"+Replace this use of System.out by a logger.(û½ô
-Q	java:S125"<This block of commented-out lines of code should be removed.(ã°©‡
-@	java:S106"+Replace this use of System.out by a logger.(Í¤áã
-E	java:S106"+Replace this use of System.out by a logger.(…–êÏüÿÿÿÿ
-E	java:S106!"+Replace this use of System.out by a logger.(Êùÿÿÿÿ
-E	java:S106$"+Replace this use of System.out by a logger.(åå€âıÿÿÿÿ
